@@ -50,12 +50,16 @@
 
 ### Stats:
 <div id="stats" align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=averithefox&theme=synthwave&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=05080A"
-    alt="GitHub Streak"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=averithefox&layout=compact&theme=vision-friendly-dark&bg_color=05080a&hide_border=true"
-    alt="Most used languages"
-  />
+  <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
+    <img
+      src="https://streak-stats.demolab.com?user=averithefox&theme=synthwave&hide_border=true&border_radius=10&date_format=j%20M%5B%20Y%5D&background=05080A"
+      alt="GitHub Streak"
+    />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=averithefox&layout=compact&theme=vision-friendly-dark&bg_color=05080a&hide_border=true"
+      alt="Most used languages"
+    />
+  </a>
 </div>
