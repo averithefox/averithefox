@@ -63,3 +63,21 @@
     />
   </a>
 </div>
+
+---
+
+<div align="center">
+
+> **"A computer is like air conditioning - it becomes useless when you open Windows."**
+>
+> _— Linus Torwalds_
+
+---
+
+> **"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off"**
+>
+> _— Bjarne Stroustrup_
+
+</div>
+
+---
