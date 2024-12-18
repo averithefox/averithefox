@@ -11,7 +11,7 @@
         alt="X badge"
       />
     </a>
-    <a href="https://bsky.app/profile/j3rzy.dev">
+    <a href="https://bsky.app/profile/averi.me">
       <img
         src="https://img.shields.io/badge/Bluesky-aqua?logo=bluesky&logoColor=white"
         alt="Bsky badge"
