@@ -1,9 +1,4 @@
 <div id="header" align="center">
-  <img
-    src="https://media.j3rzy.dev/raw/20240924_234959.jpg"
-    alt="Averi :3"
-    width="200"
-  />
   <div id="badges">
     <a href="https://x.com/averithefox">
       <img
@@ -30,6 +25,7 @@
 
 ### Technologies:
 <div id="technologies" align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vue" alt="Vue" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/bun/bun-original.svg" title="Bun" alt="Bun" width="40" height="40"/>&nbsp;
