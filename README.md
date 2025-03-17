@@ -2,19 +2,19 @@
   <div id="badges">
     <a href="https://x.com/averithefox">
       <img
-        src="https://img.shields.io/badge/X%20(aka.%20Twitter)-black?logo=x&logoColor=white"
+        src="https://img.shields.io/badge/Twitter-1da1f2?logo=twitter&logoColor=white"
         alt="X badge"
       />
     </a>
     <a href="https://bsky.app/profile/averi.me">
       <img
-        src="https://img.shields.io/badge/Bluesky-aqua?logo=bluesky&logoColor=white"
+        src="https://img.shields.io/badge/Bluesky-0085ff?logo=bluesky&logoColor=white"
         alt="Bsky badge"
       />
     </a>
     <a href="https://discord.com/users/719890634294427669">
       <img
-        src="https://img.shields.io/badge/Discord-blue?logo=discord&logoColor=white"
+        src="https://img.shields.io/badge/Discord-5865f2?logo=discord&logoColor=white"
         alt="Discord badge"
       />
     </a>
